@@ -1,3 +1,6 @@
+<div align="center">
+  <img src=about2.JPG" alt="Banner" width="800" height="400">
+</div>
 # Hi there, I'm Ravichandran T S! 👋
 ### Developer | Passionate Coder | Web Enthusiast
 
