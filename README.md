@@ -1,3 +1,7 @@
+<div style="position: relative; ">
+   <img src="https://media.licdn.com/dms/image/D5616AQEaFTZd5odHaw/profile-displaybackgroundimage-shrink_350_1400/0/1694931711499?e=1701907200&v=beta&t=xaatKGDIHhv3shLcUSD8lfCK5yHJ_SEA3HJph0pdz7c"/>
+</div>
+
 # Hi there, I'm Ravichandran T S! 👋
 ### Developer | Passionate Coder | Web Enthusiast
 
