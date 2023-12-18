@@ -1,5 +1,5 @@
 <div style="position: relative; ">
-   <img src="https://media.licdn.com/dms/image/D5616AQEaFTZd5odHaw/profile-displaybackgroundimage-shrink_350_1400/0/1694931711499?e=1701907200&v=beta&t=xaatKGDIHhv3shLcUSD8lfCK5yHJ_SEA3HJph0pdz7c"/>
+   <img src="https://media.licdn.com/dms/image/D5616AQEaFTZd5odHaw/profile-displaybackgroundimage-shrink_350_1400/0/1694931713604?e=1708560000&v=beta&t=x1NI4HQNwsJ2Lg1tRUzryyu_duaBgZVipOxbTyPCvHM"/>
 </div>
 
 # Hi there, I'm Ravichandran T S! 👋
