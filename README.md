@@ -1,5 +1,5 @@
 <div style="position: relative; ">
-   <img src="https://www.canva.com/design/DAFurQxqsMU/PB4m7k_oRgzGNihGXgbrRw/view?utm_content=DAFurQxqsMU&utm_campaign=designshare&utm_medium=link&utm_source=editor"/>
+   <img src="https://media.licdn.com/dms/image/D5616AQEaFTZd5odHaw/profile-displaybackgroundimage-shrink_350_1400/0/1694931713604?e=1717632000&v=beta&t=yPNtpi6zsmKDpywaXBmm6JM-i_NP9adFRHcUXsUE6-A"/>
 </div>
 
 # Hi there, I'm Ravichandran T S! 👋
