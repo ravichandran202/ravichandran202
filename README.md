@@ -53,7 +53,7 @@ A real-time chatting application built using Django REST APIs. Users can communi
 
 ## 🌐 Connect with Me
 
-- 🌐 Website: [ravizzz.000webhostapp.com](https://ravizzz.000webhostapp.com/)
+- 🌐 Website: [ravichandrants.vercel.app](https://ravichandrants.vercel.app/)
 - 💼 LinkedIn: [linkedin.com/in/ravichandran-t-s-551080215](https://www.linkedin.com/in/ravichandran-t-s-551080215/)
 - 🐱 GitHub: [github.com/ravichandran202](https://github.com/ravichandran202)
 
